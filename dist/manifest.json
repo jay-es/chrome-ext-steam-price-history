@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "chrome-ext-steam-price-history",
+  "version": "0.1.0",
+  "description": "",
+  "icons": {
+    "48": "icon-48.png"
+  },
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}

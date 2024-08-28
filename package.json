@@ -1,0 +1,13 @@
+{
+  "name": "chrome-ext-steam-price-history",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "jay-es",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3",
+    "@types/chrome": "^0.0.270"
+  }
+}
